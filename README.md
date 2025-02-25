@@ -121,4 +121,4 @@ Para desplegar esta aplicación en Hostinger, consulta el archivo [DEPLOY_HOSTIN
 
 ## Licencia
 
-Este proyecto está bajo la Licencia MIT.
+Este proyecto está bajo la Licencia DAVC
